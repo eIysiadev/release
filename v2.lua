@@ -16,7 +16,7 @@ local Config = {
     ImageLogo = "", -- Paste your decal ID here. Leave blank for letter.
     LoadTime = 3,
 
-    ScriptToLoad = "https://raw.githubusercontent.com/eIysia-dev/release/refs/heads/main/script.lua",
+    ScriptToLoad = "https://raw.githubusercontent.com/eIysiadev/release/refs/heads/main/script.lua",
 
     -- Loading Messages & Tips displayed randomly
     Messages = {
